@@ -1,0 +1,130 @@
+header {
+    background-color: rgba(214, 143, 232, 0.829);
+    height: 100vh;
+    color: aliceblue;
+    text-align: center;
+    margin: 0%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+
+
+
+
+
+
+
+}
+
+header h1 {
+
+    color: aliceblue;
+    font-size: 4rem;
+
+
+}
+
+.but {
+    height: 40px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+
+}
+
+.but:hover {
+    background-color: rgb(30, 27, 33);
+    color: aliceblue;
+}
+
+body {
+    margin: 0%;
+    font-family: monospace;
+    font-size: 20px;
+    background-color: rgb(217, 195, 222);
+    color: rgb(18, 20, 20);
+}
+
+
+img {
+    height: 50vh;
+}
+
+main {
+    padding: 20px;
+}
+
+h1 {
+    color: rgb(101, 2, 112);
+    font-size: 50px;
+}
+
+section {
+    height: 100vh;
+    border: 1px solid gainsboro;
+    padding: 20px;
+    border-radius: 30px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.sub {
+    height: 40px;
+    width: 140px;
+    padding: 10;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.sub:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+input {
+    border-radius: 5px;
+    border: 2px solid green;
+    height: 25px;
+
+}
+
+footer {
+    height: 124px;
+    background-color: black;
+    color: rgb(238, 244, 244);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.top {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    border: none;
+    border-radius: 50px;
+    height: 70px;
+    width: 70px;
+
+
+}
+
+a {
+    text-decoration: none;
+}
+
+form div {
+    margin: 5px;
+    text-align: center;
+}
