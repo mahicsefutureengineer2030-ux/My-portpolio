@@ -1,0 +1,82 @@
+header h1 {
+    margin: 0%;
+    color: rgb(225, 225, 199);
+    font-size: 4rem;
+}
+
+header {
+    background-color: rgb(140, 131, 57);
+    margin: 0%;
+    text-align: center;
+    height: 100vh;
+    color: rgb(228, 226, 210);
+}
+
+section {
+    height: 100vh;
+    border: 1px solid rgb(26, 21, 16);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+
+}
+
+img {
+    height: 50vh;
+}
+
+body {
+    background-color: rgb(217, 216, 172);
+    margin: 0%;
+    font-family: monospace;
+    font-size: 20px;
+    color: black;
+}
+
+.but {
+    height: 40px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.but :hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+.sub {
+    height: 40px;
+    width: 140px;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+}
+
+.sub:hover {
+    background-color: black;
+    color: aliceblue;
+}
+
+input {
+    border-radius: 5px;
+    border: 2px solid rgb(212, 227, 212);
+    height: 25px;
+}
+
+.top {
+    height: 70;
+    width: 70;
+    border-radius: 50px;
+    border: none;
+    bottom: 10px;
+    right: 10px;
+    position: fixed;
+}
+
+footer {
+    height: 124px;
+    background-color: black;
+    color: aliceblue;
+}
